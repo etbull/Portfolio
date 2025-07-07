@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>AI & ML • Data Science • Builder of Cool Things</strong><br>
-  🎓 Bachelor of Philosophy (Hons) @ UWA | 💻 Programmer | 🎵 Music Enjoyer | 🌄 Future Farm Owner
+  🎓 Bachelor of Philosophy (Hons) @ UWA | 💻 Programmer | 🎵 Music Enjoyer 
 </p>
 
 ---
