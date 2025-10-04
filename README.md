@@ -12,4 +12,3 @@
 ```bash
 Languages:       Python • C++ • SQL • PowerShell 
 ML/Data:         scikit-learn • pandas • NumPy • Matplotlib
-Trading:         MetaTrader5 • CMC Markets • IC Trading
